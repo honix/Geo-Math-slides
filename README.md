@@ -5,3 +5,5 @@ There is my thoughts about math and language. Will it be possible to do math in 
 There is some funky slides i made. Welcome to https://honix.github.io/Geo-Math-slides/index.html
 
 [ add more info ]
+
+![GitHub Logo](/head-img.png)
