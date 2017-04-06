@@ -1,2 +1,3 @@
-# Geo-Math-slides-
-Geometric math research
+# Geo-Math-slides
+
+^_^ youare pretty
