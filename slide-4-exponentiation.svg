@@ -302,9 +302,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2"
-     inkscape:cx="451.15189"
-     inkscape:cy="385.1202"
+     inkscape:zoom="0.84852814"
+     inkscape:cx="398.11147"
+     inkscape:cy="441.00128"
      inkscape:current-layer="svg4136"
      inkscape:document-units="px"
      showgrid="false"
@@ -337,7 +337,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -438,7 +438,7 @@
   <g
      id="g8899"
      style="opacity:0.31499999"
-     transform="translate(241.61836,-160.25329)">
+     transform="translate(262.24336,-160.25329)">
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#aa4400;stroke-width:2.37258172;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect8881"
@@ -484,7 +484,7 @@
   </g>
   <path
      style="fill:#aa4400;fill-rule:evenodd;stroke:#aa4400;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 530.41937,349.23387 V 27.151742"
+     d="M 551.04437,349.23387 V 27.151742"
      id="path7729"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cc" />
@@ -502,11 +502,11 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#aa4400;fill-opacity:1;stroke:#aa4400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="578.64777"
+     x="599.27277"
      y="195.08284"
      id="text7737"><tspan
        sodipodi:role="line"
-       x="578.64777"
+       x="599.27277"
        y="195.08284"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#aa4400;stroke:#aa4400"
        id="tspan7745">16</tspan></text>
@@ -593,7 +593,7 @@
        id="tspan9654"
        sodipodi:role="line">2</tspan></text>
   <g
-     transform="translate(241.61836,-40.221618)"
+     transform="translate(262.24336,-40.221618)"
      style="opacity:0.31499999"
      id="g9672">
     <rect
@@ -642,7 +642,7 @@
   <g
      id="g9686"
      style="opacity:0.31499999"
-     transform="translate(241.61836,82.23749)">
+     transform="translate(262.24336,82.23749)">
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#aa4400;stroke-width:2.37258172;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect9674"
@@ -725,10 +725,7 @@
    style="font-size:60.9375%;baseline-shift:super"
    id="tspan9716">4</tspan></tspan></text>
   <g
-     aria-label="
-
-xn
-Exponentiation "
+     aria-label="  xn Exponentiation "
      style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      id="flowRoot4148">
     <path
@@ -788,4 +785,21 @@ Exponentiation "
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri"
        id="path4176" />
   </g>
+  <path
+     sodipodi:nodetypes="cc"
+     style="fill:#800000;fill-rule:evenodd;stroke:#800000;stroke-width:4.6875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 530.57562,348.44453 V 27.281148"
+     id="path153"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#800000;fill-opacity:1;stroke:#800000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="513.802"
+     y="196.82584"
+     id="text157"><tspan
+       sodipodi:role="line"
+       id="tspan155"
+       x="513.802"
+       y="196.82584"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#800000;stroke:#800000">2</tspan></text>
 </svg>
